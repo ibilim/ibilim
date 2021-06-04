@@ -1,3 +1,4 @@
+print("
 - Hi, I’m ibrahim Bilim
 - I’m interested in 
     -Data Science
@@ -6,7 +7,7 @@
     -Django
     -AWS  
 - I’m looking to collaborate on Machine Learning Projects,Data Science projects
-- How to reach me : ibrahimbilim@hotmail.com
+- How to reach me : ibrahimbilim@hotmail.com ")
 
 <!---
 ibilim/ibilim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
