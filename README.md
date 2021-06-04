@@ -1,11 +1,11 @@
 - Hi, I’m ibrahim Bilim
 - I’m interested in 
-    Data Science
-    Cloud computing
+    -Data Science
+    -Cloud computing
 - I’m currently learning
-    Django
-    AWS  
-- I’m looking to collaborate on Machine Learning Projects
+    -Django
+    -AWS  
+- I’m looking to collaborate on Machine Learning Projects,Data Science projects
 - How to reach me : ibrahimbilim@hotmail.com
 
 <!---
