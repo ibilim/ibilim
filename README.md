@@ -1,4 +1,5 @@
 - Hi, I’m ibrahim Bilim
+- I am an experienced Data Analyst able to use many tools such as Python, R, SQL, PowerBI, and other statistics packages such as LISREL, IBM SPSS, AMOS and STATA. 
 - I’m interested in 
     -Data Science
     -Cloud computing
